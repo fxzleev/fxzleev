@@ -1,30 +1,37 @@
-###
+![Banner](head.png)
 
-<h1 align="center">
-  ♟ Fxzleev ♟
-</h1>
-
-###
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=My+Stack" alt="Typing SVG" /></a>
-</p>
+## 🛠️ Tech & Tools 
+### 📱 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,html,css,js,ts,vue,nuxt,pinia,nodejs,nest,sass,tailwind" height="40" alt="go logo"  />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,pinia,sass,tailwind" height="40" alt="go logo"  />  
   <img width="12" />
 </div>
 
-###
+---
 
+### 💾 Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,kafka,redis,postgres,mongo,nginx" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nest,postgres,mongo,redis" height="40" alt="git logo"  />
+</div>
+
+---
+### ⚙️ Tools & Workflow
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,githubactions,docker,kubernetes,kafka,nginx" height="40" alt="git logo"  />
   <img src="https://caddyserver.com/resources/images/logo-dark.svg" height="40" alt="caddy logo"  />
 </div>
 
-###
-
+---
+### 🖥️ Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go" height="40" alt="git logo"  />
 </div>
 
-###
-
+---
+## 🤝 Connect with Me
+<a href="https://vk.com/f7omx">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue">
+</a>
+<a href="https://t.me/flaevyss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue">
+</a>
