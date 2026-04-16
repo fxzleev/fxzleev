@@ -17,7 +17,7 @@
 ---
 ### ⚙️ Tools & Workflow
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,githubactions,docker,kubernetes,kafka,nginx" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=arch,vscode,webstorm,git,githubactions,docker,kubernetes,kafka,nginx" height="40" alt="git logo"  />
   <img src="https://caddyserver.com/resources/images/logo-dark.svg" height="40" alt="caddy logo"  />
 </div>
 
