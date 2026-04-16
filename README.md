@@ -29,9 +29,11 @@
 
 ---
 ## 🤝 Connect with Me
-<a href="https://vk.com/f7omx">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue">
-</a>
-<a href="https://t.me/flaevyss">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue">
-</a>
+<div align="center">
+  <a href="https://vk.com/f7omx">
+    <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue">
+  </a>
+  <a href="https://t.me/flaevyss">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue">
+  </a>
+</div>
