@@ -1,4 +1,4 @@
-![Banner](head.png)
+![Banner](baner.png)
 
 ## 🛠️ Tech & Tools 
 ### 📱 Frontend
