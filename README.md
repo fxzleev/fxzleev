@@ -54,7 +54,6 @@
 <div align="center">
   <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch"  /></a>
   <a href="https://code.visualstudio.com/Download"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  /></a>
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"  /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git"  /></a>
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"  /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  /></a>
