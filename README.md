@@ -7,6 +7,7 @@
   <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css"  /></a>
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://skillicons.dev/icons?i=js" height="40" alt="js"  /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts"  /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="40" alt="Blazor"  /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  /></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=next" height="40" alt="next"  /></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux"  /></a>
@@ -21,7 +22,8 @@
 
 ### 💾 Backend & Databases
 <div align="center">
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go"  /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs"  /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node"  /></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express"  /></a>
   <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest"  /></a>
@@ -33,8 +35,18 @@
 ---
 ### 📱/🖥️ Mobile & Desktop
 <div align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="cs"  /></a>
+  <a href="#"><img src="https://www.protonbits.com/wp-content/uploads/2025/01/Group-1000004855-1.png" height="40" alt="maui" /></a>
   <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react native"  /></a>
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron"  /></a>
+</div>
+
+---
+### 🎮 Game Dev
+<div align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs"  /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity"  /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender"  /></a>
 </div>
 
 ---
@@ -49,13 +61,12 @@
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes"  /></a>
   <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka"  /></a>
   <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx"  /></a>
-  <a href="https://caddyserver.com/"><img src="https://caddyserver.com/resources/images/logo-dark.svg" height="40" alt="caddy"  /></a>
 </div>
 
 ---
 ### 🖥️ Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go" height="40" alt="Languages"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs" height="40" alt="Languages"  />
 </div>
 
 ---
